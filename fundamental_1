@@ -1,0 +1,11 @@
+Write-Host "Hola Mundo"
+Write-Host "Hello World"
+
+
+$hola="holamundo"
+
+Write-Host $hola
+$nombre = "Juan Alcachofa"
+$numero=23
+Write-Host $nombre
+Write-Host $numero
